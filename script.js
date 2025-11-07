@@ -6,7 +6,8 @@
    **************************************************************/
   const ENDPOINTS_WITH_REASONING = [
     "https://openrouter.ai/api/v1/chat/completions",
-    "https://api.minimax.chat/v1/text/chatcompletion"
+    "https://api.minimax.chat/v1/text/chatcompletion",
+    "https://api.moonshot.ai/v1/chat/completions"
   ];
 
   // In-memory reasoning cache
